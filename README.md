@@ -1,4 +1,5 @@
 # Simplon-s
+SCENARIO :-
 SIMPLON’s Beauty care centre is very big shop of cosmetics and accessories in the
 city. With the success of the shop, owner had opened few more shops in the different
 cities also. Simplon product is known for their quality of the service which they are
